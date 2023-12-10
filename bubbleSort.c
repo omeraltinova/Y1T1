@@ -11,8 +11,8 @@ int main(void){
     printf("%d. sayiyi giriniz\n",i+1);
     scanf("%d",&dizi[i]);
     }
-    for(j=0;j<adet-1;j++){
-        for(i=0;i<adet;i++){
+    for(j=0;j<adet;j++){
+        for(i=0;i<adet-j;i++){
             if(dizi[i]>dizi[i+1]){
                 gecici=dizi[i];
                 dizi[i]=dizi[i+1];
