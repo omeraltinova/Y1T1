@@ -12,4 +12,6 @@ int main(void){
 		printf("Yer ayirma basarisiz oldu\n");
 		return(1);
 	}
+	else 
+		printf("Yer ayirma basarili\n");
 }
