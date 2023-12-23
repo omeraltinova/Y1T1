@@ -1,0 +1,7 @@
+Örnek -1 ) Bir dinamik fibonacci dizisi oluşturun. Dizinin eleman sayısını kullanıcıdan alın.
+Dizinin son elemanını pointer yardımıyla gösteriniz.
+Örnek-2)
+Rastgele değerlerden oluşan 2 boyutlu dinamik bir dizi oluşturun. Diziyi ekrana yazdırın.
+Örnek-3 ) 3 * 2 rastgele elemanlardan oluşan bir dinamik dizi oluşturunuz. Bu dizinin
+transpozunu (satır ile sütun yer değiştirecek.) alın. Dizinin her iki halini yazdırın.
+Not) 2 boyutlu dizi A matrisi olsun. A matrisinin transpozu A üzeri T ile gösterilir.
