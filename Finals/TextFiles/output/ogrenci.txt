@@ -1,0 +1,5 @@
+Faruk 90 60 72
+Emir 29 55 82
+Ahmed 60 70 90
+Burak 66 53 79
+Salih 57 89 96
