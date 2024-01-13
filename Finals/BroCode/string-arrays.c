@@ -7,8 +7,8 @@ int main()
 
    //cars[0] = "Tesla";
    strcpy(cars[2], "Tesla");
-
-   for(int i = 0; i< sizeof(cars)/sizeof(cars[0]); i++)
+   int size=sizeof(cars)/sizeof(cars[0]);
+   for(int i = 0; i<size; i++)
    {
       printf("%s\n", cars[i]);
    }

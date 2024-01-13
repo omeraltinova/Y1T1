@@ -13,7 +13,7 @@ int main(void){
         printf("Dosya olusturma basarili oldu\n");
     }
 
-    fclose("text.txt");
+    fclose(ogrenciDosyasi);
 
     return(0);
 }

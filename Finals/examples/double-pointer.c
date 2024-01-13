@@ -59,7 +59,15 @@ int main(void){
         }
         printf("\n");
     }
-
+    for(i=0;i<satir1;i++){
+        free(dizi1[i]);
+    }
+    for(i=0;i<satir2;i++){
+        free(dizi2[i]);
+    }
+        for(i=0;i<satir1;i++){
+        free(dizi3[i]);
+    }
     free(dizi1);
     free(dizi2);
     free(dizi3);
