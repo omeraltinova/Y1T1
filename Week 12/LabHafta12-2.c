@@ -17,7 +17,7 @@ int main(void){
 	}
 	
 	for(i=0;i<3;i++){
-		printf("%12s : Numara: %3d, Vize: %3d\n",ogrenci[i].isim,ogrenci[i].numara,ogrenci[i].vize);
+		printf("%12s --> Numara: %3d, Vize: %3d\n",ogrenci[i].isim,ogrenci[i].numara,ogrenci[i].vize);
 	}
 	
 	

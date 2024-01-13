@@ -4,7 +4,7 @@ int main(void){
 
 
     FILE *ofp;
-    ofp = fopen("dosya1.txt","r");
+    ofp = fopen("dosya1.txt","w");
     if(ofp==NULL){
         perror("Hata: dosya acilamadi");
     }

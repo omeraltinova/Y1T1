@@ -1,2 +1,5 @@
-faruk 44 50
-semih 43 65
+faruk 45 95
+semih 12 67
+emir 44 97
+salih 98 57
+burak 67 85
